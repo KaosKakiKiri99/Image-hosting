@@ -607,3 +607,50 @@
 #workskin .yt-like-cont p {
   margin-bottom: 0px;
 }
+
+/* NEW CSS TO HIDE DROPDOWN MARKERS AND IMPROVE BUTTON STYLING */
+
+/* Hide the details dropdown arrow */
+#workskin details {
+  list-style: none;
+}
+
+#workskin details summary::-webkit-details-marker {
+  display: none;
+}
+
+#workskin details summary::marker {
+  display: none;
+}
+
+/* Make summary styling consistent like a button */
+#workskin .play-toggle summary,
+#workskin .skip-toggle summary,
+#workskin .caption-toggle summary {
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* Remove default summary styles */
+#workskin details summary {
+  all: unset;
+  cursor: pointer;
+  display: inline;
+}
+
+/* Ensure subscription toggle also works */
+#workskin .yt-subscribe-cont summary {
+  all: unset;
+  cursor: pointer;
+  display: inline;
+}
+
+/* Ensure thumbs up/down toggles also work */
+#workskin .yt-thumbsup-cont summary,
+#workskin .yt-thumbsdown-cont summary {
+  all: unset;
+  cursor: pointer;
+  display: inline;
+}
