@@ -633,24 +633,42 @@
   align-items: center;
 }
 
-/* Remove default summary styles */
+/* Remove default summary styles - AO3 compatible version */
 #workskin details summary {
-  all: unset;
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
   cursor: pointer;
   display: inline;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
 }
 
 /* Ensure subscription toggle also works */
 #workskin .yt-subscribe-cont summary {
-  all: unset;
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
   cursor: pointer;
   display: inline;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
 }
 
 /* Ensure thumbs up/down toggles also work */
 #workskin .yt-thumbsup-cont summary,
 #workskin .yt-thumbsdown-cont summary {
-  all: unset;
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
   cursor: pointer;
   display: inline;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
 }
