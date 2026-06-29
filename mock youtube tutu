@@ -25,12 +25,12 @@
 <p class="yt-caption-text">You can do it, my little sweetbun.</p></div></div><div class="yt-comment-container">
 
 <p class="yt-title-shift"> <span class="yt-title">The Bunny Kit's Very Brave Day 🐰| Cozy Bedtime Audio Story</span><br />
-<span class="yt-views-text">120k views </span></p><div class="yt-like-cont"><div style="display: flex; flex-direction: column; align-items: center;"><details class="yt-thumbsup-cont"><summary style="list-style: none; cursor: pointer;">
+<span class="yt-views-text">120k views </span></p><div class="yt-like-cont"><details class="yt-thumbsup-cont"><summary style="list-style: none; cursor: pointer;">
 
 <p class="shift-up">
                 <img class="stay unliked" src="https://i.imgur.com/g75YCkl.png">
                 <img class="stay liked" src="https://i.imgur.com/b67np3s.png">
-            </p></summary></details><p class="text-color-lgray text-size-8" style="margin: 2px 0 0 0; padding: 0;">5.1k</p></div><details class="yt-thumbsdown-cont"><summary style="list-style: none; cursor: pointer;">
+            </p></summary></details><p class="yt-like-count">5.1k</p><details class="yt-thumbsdown-cont"><summary style="list-style: none; cursor: pointer;">
 
 <p class="shift-up">
                 <img class="stay unliked" src="https://i.imgur.com/mgLbB5V.png">
@@ -61,10 +61,14 @@
 
 <p>Learn more at <span class="yt-link"><a href="https://en.wikipedia.org/wiki/The_World_of_Peter_Rabbit_and_Friends" rel="nofollow"> ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠sleepydragonpublishing.c[...]
 </details><div class="yt-border-top-bottom-gray clear2">
-        <details class="yt-subscribe-cont"><summary style="list-style: none; cursor: pointer; display: block;">
+        <details class="yt-subscribe-cont">
+        <summary style="list-style: none; cursor: pointer;">
+            <p>
                 <span class="yt-sub-button not-subscribed">SUBSCRIBE</span>
                 <span class="yt-sub-button subscribed">SUBSCRIBED</span>
-        </summary></details>
+            </p>
+        </summary>
+        </details>
         <p>
         <span class="left dot yt-techluver"></span>
         <span class="left"><strong>Sleepy Dragon Publishing House</strong><br />
